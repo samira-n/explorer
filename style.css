@@ -9,6 +9,8 @@ body{
 /* header start */
 
 .main{
+    background-position-x: center;
+    background-position: center;
     background: url(img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,14 +35,10 @@ body{
     display: flex;
     align-items: center;
     list-style: none;
+    
 }
 
 .nav a{
-    margin-right: 25px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 400;
-    text-decoration: none;
     color: white;
 
     margin-right: 25px;
@@ -204,7 +202,6 @@ body{
 
 .gallery{
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 

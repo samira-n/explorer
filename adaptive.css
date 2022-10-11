@@ -1,0 +1,177 @@
+/* Large Devices, Wide Screens   */
+@media only screen and (max-width: 1200px){
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px){
+    .blog_one img{
+        width: 650px;
+    }
+
+    .one_content{
+        width: 650px;
+    }
+
+    .blog_two img{
+        width: 650px;
+    }
+
+    .two_content{
+        width: 650px;
+    }
+
+    .blog_three img{
+        width: 650px;
+    }
+
+    .three_content{
+        width: 650px;
+    }
+
+    .visit_content{
+        width: 650px;
+    }
+
+    .left_img img{
+        width: 200px;
+    }
+
+    .left_img{
+        width: 200px;
+    }
+
+    .center_img img{
+        width: 200px;
+    }
+
+    .center_img{
+        width: 200px;
+    }
+
+    .right_img img{
+        width: 200px;
+    }
+
+    .right_img{
+        width: 200px;
+    }
+
+    .nav{
+        font-size: 13px;
+    }
+
+    .content{
+        font-size: 16px;
+    }
+
+    .content_purple{
+        font-size: 16px;
+    }
+
+    .gallery_desc{
+        font-size: 16px;
+    }
+
+    .first_text{
+        font-size: 16px;
+    }
+
+    .second_text{
+        font-size: 16px;
+    }
+
+    .footer_text{
+        font-size: 16px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px){
+
+    .logo img{
+        width: 130px;
+    }
+
+    .nav{
+        font-size: 10px;
+    } 
+
+    .blog_one img{
+        width: 450px;
+    }
+
+    .one_content{
+        width: 450px;
+    }
+
+    .blog_two img{
+        width: 450px;
+    }
+
+    .two_content{
+        width: 450px;
+    }
+
+    .blog_three img{
+        width: 450px;
+    }
+
+    .three_content{
+        width: 450px;
+    }
+
+    .visit_content{
+        width: 450px;
+    }
+
+    .content {
+        font-size: 14px;
+    }
+
+    .content_purple{
+        font-size: 14px;
+    }
+
+    .top_title {
+        font-size: 30px;
+    }
+
+    .top_description{
+        font-size: 15px;
+    }
+
+    .left_img img{
+        width: 100px;
+    }
+
+    .left_img{
+        width: 100px;
+    }
+
+    .center_img img{
+        width: 100px;
+    }
+
+    .center_img{
+        width: 100px;
+    }
+
+    .right_img img{
+        width: 100px;
+    }
+
+    .right_img{
+        width: 100px;
+    }
+}
+
+/* Extra Small Devices, Phones  */
+@media only screen and (max-width: 480px){
+
+}
+
+/* Custom, Iphone Retina */
+@media only screen and (max-width: 320px){
+
+}
