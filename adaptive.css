@@ -164,11 +164,113 @@
     .right_img{
         width: 100px;
     }
+
+    .header{
+        padding: 60px 150px 60px 150px;
+    }
+
+    .footer_text{
+        font-size: 13px;
+    }
+
+    .second_text{
+        font-size: 13px;
+    }
+
+    .gallery_desc{
+        font-size: 13px;
+    }
 }
 
 /* Extra Small Devices, Phones  */
 @media only screen and (max-width: 480px){
+    .blog_one img{
+        width: 300px;
+    }
 
+    .one_content{
+        width: 300px;
+    }
+
+    .blog_two img{
+        width: 300px;
+    }
+
+    .two_content{
+        width: 300px;
+    }
+
+    .blog_three img{
+        width: 300px;
+    }
+
+    .three_content{
+        width: 300px;
+    }
+
+    .visit_content{
+        width: 300px;
+    }
+
+    .end_content {
+        font-size: 20px;
+    }
+
+    .btn{
+        width: 150px;
+    }
+
+    .header {
+        padding: 60px 100px 60px 100px;
+    }
+
+    .top_title {
+        font-size: 25px;
+    }
+
+    .left_img img{
+        width: 90px;
+    }
+
+    .left_img{
+        width: 90px;
+    }
+
+    .center_img img{
+        width: 90px;
+    }
+
+    .center_img{
+        width: 90px;
+    }
+
+    .right_img img{
+        width: 90px;
+    }
+
+    .right_img{
+        width: 90px;
+    }
+
+    .gallery_desc {
+        font-size: 10px;
+    }
+
+    .first_text {
+        font-size: 10px;
+    }
+
+    .footer{
+        text-align: center;
+    }
+
+    .footer_text {
+        font-size: 10px;
+    }
+
+    .second_text {
+        font-size: 10px;
+    }
 }
 
 /* Custom, Iphone Retina */
